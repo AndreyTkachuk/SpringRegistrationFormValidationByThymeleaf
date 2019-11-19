@@ -1,0 +1,11 @@
+/Users/andrey/eclipse-workspace/SpringRegistrationFormValidationByThymeleaf/src/main/java/com/company/config/WebSecurityConfig.java
+/Users/andrey/eclipse-workspace/SpringRegistrationFormValidationByThymeleaf/src/main/java/com/company/config/WebConfiguration.java
+/Users/andrey/eclipse-workspace/SpringRegistrationFormValidationByThymeleaf/src/main/java/com/company/dao/AppUserDAO.java
+/Users/andrey/eclipse-workspace/SpringRegistrationFormValidationByThymeleaf/src/main/java/com/company/validator/AppUserValidator.java
+/Users/andrey/eclipse-workspace/SpringRegistrationFormValidationByThymeleaf/src/main/java/com/company/SpringRegistrationFormValidationByThymeleafApplication.java
+/Users/andrey/eclipse-workspace/SpringRegistrationFormValidationByThymeleaf/src/main/java/com/company/model/Gender.java
+/Users/andrey/eclipse-workspace/SpringRegistrationFormValidationByThymeleaf/src/main/java/com/company/controller/MainController.java
+/Users/andrey/eclipse-workspace/SpringRegistrationFormValidationByThymeleaf/src/main/java/com/company/model/Country.java
+/Users/andrey/eclipse-workspace/SpringRegistrationFormValidationByThymeleaf/src/main/java/com/company/model/AppUser.java
+/Users/andrey/eclipse-workspace/SpringRegistrationFormValidationByThymeleaf/src/main/java/com/company/formbean/AppUserForm.java
+/Users/andrey/eclipse-workspace/SpringRegistrationFormValidationByThymeleaf/src/main/java/com/company/dao/CountryDAO.java
